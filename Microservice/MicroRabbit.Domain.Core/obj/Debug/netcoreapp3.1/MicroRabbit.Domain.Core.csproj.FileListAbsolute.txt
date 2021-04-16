@@ -1,0 +1,8 @@
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Microservice\Microservice\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.deps.json
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Microservice\Microservice\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Microservice\Microservice\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Microservice\Microservice\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.AssemblyInfo.cs
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Microservice\Microservice\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Microservice\Microservice\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Microservice\Microservice\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Andrey\Pessoal\Cursos Udemy\1. IBM Udemy\Build .NET Core Microservices using RabbitMQ Messaging\Microservice\Microservice\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

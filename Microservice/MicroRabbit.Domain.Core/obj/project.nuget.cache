@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3X/U7CBsf8BU4B+AzBKzhG8eX6B6ozKGyC4khziU8SUU/HffX5qjYd8fS3edD85MZvqJ5DyxsqwkoNMdQGYpZw==",
+  "dgSpecHash": "y+TO2X/PeUQLaQt6OheiLGxiLkxEO3QuqEYl5TgJG6R4ZEs4Xij0jYf5D8ZQdEz2yqLrF/tgNC3oj22wbkZqtw==",
   "success": true,
   "projectFilePath": "C:\\Andrey\\Pessoal\\Cursos Udemy\\1. IBM Udemy\\Build .NET Core Microservices using RabbitMQ Messaging\\Microservice\\Microservice\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
